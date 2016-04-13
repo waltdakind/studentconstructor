@@ -1,2 +1,2 @@
 # studentconstructor
-constructo functions
+constructor functions
