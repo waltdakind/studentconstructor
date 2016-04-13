@@ -1,0 +1,24 @@
+{
+  "name": "studentconstructor",
+  "version": "1.0.0",
+  "description": "constructor functions and exporting from other modules",
+  "main": "main.js",
+  "scripts": {
+    "test": "help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waltdakind/studentconstructor.git"
+  },
+  "keywords": [
+    "constructors",
+    "exports",
+    "node.js"
+  ],
+  "author": "Walter Mattingly",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/waltdakind/studentconstructor/issues"
+  },
+  "homepage": "https://github.com/waltdakind/studentconstructor#readme"
+}
